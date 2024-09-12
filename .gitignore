@@ -1,0 +1,45 @@
+# Dependency directories
+node_modules/
+
+# Debug log from npm
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System Files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: if you are using TypeScript
+*.tsbuildinfo
+
+# Optional: if you are building your project
+dist/
+build/
+
+# Optional: if you are using Yarn
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.yarn-integrity
